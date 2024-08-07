@@ -84,6 +84,7 @@
     }
     .weather {
         padding: 40px 20px;
+        margin-top: 20px;
     }
     .search-bar {
         justify-content: space-between;
